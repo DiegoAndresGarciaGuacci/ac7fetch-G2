@@ -1,3 +1,4 @@
+//integrantes Diego Garcia/ Madeline Cecere/ Gustavo Figuerido/ Iara Barreiro /Virginia Nogueira /Eloisa Salvarrey/ Santiago Acerbis/ Federico Fernánde
 // En este archivo no utilizamos el evento "DOMContentLoaded", ya que se colocó el atributo "defer" en la importación del script,
 // que nos soluciona el problema de los elementos no cargados del DOM. Más info => https://www.w3schools.com/tags/att_script_defer.asp
 
